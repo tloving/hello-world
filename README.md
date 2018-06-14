@@ -1,2 +1,2 @@
 # hello-world
-Just testing this out.
+Here comes my first commit. Hurray!
